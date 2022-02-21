@@ -10,7 +10,7 @@ Module 3 - Data Modeling.
 
 # Lab Index
 
-In the table below is an index of each exercise ordered by bootcamp module and week, a link to the exercises, the programming language, libraries used and the main **topics covered or methods** used by me to solve the problems.
+In the table below is an index of all exercises ("labs") grouped by bootcamp module and week, a link to the exercises, the programming language, libraries used and the main **topics covered or methods** used by me to solve the problems.
 
 | Mod/Week | Lab                                                          | Language                   | Libraries                                                    | Topics/Methods                                               |
 | -------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
