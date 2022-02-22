@@ -1,0 +1,9 @@
+SELECT *
+FROM cars;
+
+SET SQL_SAFE_UPDATES = 0;
+
+DELETE FROM cars WHERE model = 'V60CC';
+
+SELECT *
+FROM cars;
