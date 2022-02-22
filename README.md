@@ -12,7 +12,7 @@ Module 3 - Data Modeling.
 
 In the table below constituts an index of all exercises ("labs") grouped by bootcamp module and week, which contains a link to the exercises, the programming language, libraries used and the main **topics covered or methods** used by me to solve the problems.
 
-| Mod | Lab                                                          | Language                   | Libraries                                                    | Topics/Methods                                               |
+| Module | Lab                                                          | Language                   | Libraries                                                    | Topics/Methods                                               |
 | -------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | M1    | [resolving-git-conflicts](https://github.com/280220/lab-resolving-git-conflicts/tree/master/lab-resolving-git-conflicts) | Git, Command Line, Bash    | -                                                            | GitHub, add, commit, push, pull, merge, conflicts, pull requests |
 | M1    | [tuple-set-dict](https://github.com/ricardozacarias/ironhack-labs/tree/master/M1-W1-lab-tuple-set-dict) | Python                     | random, operator, pandas                                     | random.sample, operator.itemgetter, pd.DataFrame             |
